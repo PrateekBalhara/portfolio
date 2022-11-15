@@ -169,7 +169,7 @@ const contactConfig = {
     YOUR_FONE: "(647)702-2664",
     description: "",
     YOUR_SERVICE_ID: "service_xub330o",
-    YOUR_TEMPLATE_ID: "template_wnhqvyn",
+    YOUR_TEMPLATE_ID: "template_zk7882n",
     YOUR_USER_ID: "glndMfnHGdoYvL0gA",
 };
 
