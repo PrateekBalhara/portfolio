@@ -168,7 +168,7 @@ const contactConfig = {
     YOUR_EMAIL: "prateekbalhara21@gmail.com",
     YOUR_FONE: "(647)702-2664",
     description: "",
-    YOUR_SERVICE_ID: "service_xub330o",
+    YOUR_SERVICE_ID: "service_fs9r1fi",
     YOUR_TEMPLATE_ID: "template_zk7882n",
     YOUR_USER_ID: "glndMfnHGdoYvL0gA",
 };
