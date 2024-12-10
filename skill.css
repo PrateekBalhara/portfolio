@@ -94,7 +94,7 @@ body{
 
 
 #Skill-HTML {
-    width: 90%;
+    width: 75%;
     border-radius:20px;
     animation: Animate-HTML 4s;
     -webkit-animation: Animate-HTML 4s;
@@ -109,32 +109,32 @@ body{
     width: 10px;
 }
 to {
-    width: 90%}
+    width: 75%}
 }@-webkit-keyframes Animate-HTML {
     from {
     width: 10px;
 }
 to {
-    width: 90%}
+    width: 75%}
 }@-moz-keyframes Animate-HTML {
     from {
     width: 10px;
 }
 to {
-    width: 90%}
+    width: 75%}
 }@-o-keyframes Animate-HTML {
     from {
     width: 10px;
 }
 to {
-    width: 90%}
+    width: 75%}
 }#Skill-CSS {
     animation: Animate-CSS 5s;
     -webkit-animation: Animate-CSS 5s;
     -moz-animation: Animate-CSS 5s;
     -o-animation: Animate-CSS 5s;
     border-radius:20px;
-    width: 70%;
+    width: 75%;
     height: 50px;
     position: absolute;
     background-color: #6c63ff;
@@ -144,25 +144,25 @@ to {
     width: 10px;
 }
 to {
-    width: 70%}
+    width: 75%}
 }@-webkit-keyframes Animate-CSS {
     from {
     width: 10px;
 }
 to {
-    width: 70%}
+    width: 75%}
 }@-moz-keyframes Animate-CSS {
     from {
     width: 10px;
 }
 to {
-    width: 70%}
+    width: 75%}
 }@-o-keyframes Animate-CSS {
     from {
     width: 10px;
 }
 to {
-    width: 70%}
+    width: 75%}
 }#Skill-Python {
     border-radius:20px;
     animation: Animate-Python 5s;
@@ -204,7 +204,7 @@ to {
     -moz-animation: Animate-JS 4s;
     -o-animation: Animate-JS 4s;
     border-radius:20px;
-    width: 75%;
+    width: 80%;
     height: 50px;
     position: absolute;
     background-color: #6c63ff;
@@ -214,25 +214,25 @@ to {
     width: 10px;
 }
 to {
-    width: 75%}
+    width: 80%}
 }@-webkit-keyframes Animate-JS {
     from {
     width: 10px;
 }
 to {
-    width: 75%}
+    width: 80%}
 }@-moz-keyframes Animate-JS {
     from {
     width: 10px;
 }
 to {
-    width: 75%}
+    width: 80%}
 }@-o-keyframes Animate-JS {
     from {
     width: 10px;
 }
 to {
-    width: 75%}
+    width: 80%}
 }
 
 #Skill-C {
@@ -241,7 +241,7 @@ to {
     -moz-animation: Animate-C 4s;
     -o-animation: Animate-C 4s;
     border-radius:20px;
-    width: 70%;
+    width: 90%;
     height: 50px;
     position: absolute;
     background-color: #6c63ff;
@@ -251,19 +251,19 @@ to {
     width: 10px;
 }
 to {
-    width: 70%}
+    width: 90%}
 }@-webkit-keyframes Animate-C {
     from {
     width: 10px;
 }
 to {
-    width: 70%}
+    width: 90%}
 }@-moz-keyframes Animate-C {
     from {
     width: 10px;
 }
 to {
-    width: 70%}
+    width: 90%}
 }@-o-keyframes Animate-C {
     from {
     width: 10px;

@@ -225,7 +225,39 @@ span.wave {
   }
 
 
+  .dev-icon-webapps{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
 
+  .dev-icon-webapps li {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  /* Normalize dimensions for all icons (images and font icons) */
+.dev-icon-webapps .icon,
+.dev-icon-webapps .fa-icon {
+  padding: 10px;
+  display: block;
+  object-fit: contain; /* Ensures images fit within dimensions */
+}
+
+.dev-icon-webapps img{
+  padding: 12px;
+  width: 5em;
+  height: 5em;
+}
+
+/* Optional: Center-align icons vertically and horizontally */
+.dev-icon-webapps img,
+.dev-icon-webapps i {
+  display: inline-block;
+  vertical-align: middle;
+}
 
   .dev-icon{
       list-style: none;
@@ -233,6 +265,21 @@ span.wave {
       padding: 0%;
   }
 
+  .csharp{
+    max-width: 14%;
+    width : 15%;
+    height: 25%;
+    padding: 9%;
+    vertical-align: middle;
+  }
+
+  .dotnet{
+    vertical-align: middle;
+    max-width: 14%;
+    width : 14%;
+    height: 25%;
+    padding: 9%;
+  }
 
   .numpy{
     max-width: 100%;
